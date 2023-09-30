@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Martian+Mono:wght@200&family=Raleway:wght@300&family=Ubuntu:wght@300&display=swap');
+
+body{
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.container{
+    padding:0 70px;
+    margin:0px  auto
+}
+
+.navBar{
+    width: 260px;
+    height: 100vh ;
+    border-right: 1px solid #e8e8e8 ;
+}
+
+.App{
+    display: flex;
+}

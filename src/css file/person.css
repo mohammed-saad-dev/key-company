@@ -1,0 +1,25 @@
+.Person{
+    display: flex;
+    padding-bottom: 25px;
+}
+
+.Person img{
+    width: 40px;
+    border-radius: 50%;
+}
+
+.Person div{
+    margin-left: 10px;
+}
+button{
+    color: white;
+    background: black;
+    border: none;
+    width: 50px;
+    border-radius: 15px;
+    height: 32px;
+    width: 78px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-left: 80px;
+}

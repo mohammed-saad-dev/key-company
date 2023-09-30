@@ -1,0 +1,27 @@
+.People{
+    width: 374px;
+    display: flex;
+    padding: 13px 25px;
+}
+
+.Suggestions{
+    width: 340px;
+    height:295px ;
+    background-color: #f2f2f2;
+    border-radius: 15px;
+    padding: 15px;
+}
+.title-header{
+    font-size: 20px;
+    font-weight: bold;
+} 
+.title-people{
+    font-weight: bold;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+.Suggestions a{
+    text-decoration: none;
+    color: #0070ff;
+    font-size:15px ;
+}
